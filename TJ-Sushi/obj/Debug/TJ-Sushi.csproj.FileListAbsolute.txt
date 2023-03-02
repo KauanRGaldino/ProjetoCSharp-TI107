@@ -1,0 +1,13 @@
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\bin\Debug\TJ-Sushi.exe.config
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\bin\Debug\TJ-Sushi.exe
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\bin\Debug\TJ-Sushi.pdb
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\obj\Debug\TJ-Sushi.csproj.AssemblyReference.cache
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\obj\Debug\TJ_Sushi.Form1.resources
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\obj\Debug\TJ_Sushi.frmMenuPrincipal.resources
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\obj\Debug\TJ_Sushi.Properties.Resources.resources
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\obj\Debug\TJ-Sushi.csproj.GenerateResource.cache
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\obj\Debug\TJ-Sushi.csproj.CoreCompileInputs.cache
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\obj\Debug\TJ-Sushi.exe
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\obj\Debug\TJ-Sushi.pdb
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\obj\Debug\TJ_Sushi.frmSplash.resources
+C:\Users\kauan.rgaldino\Documents\Visual Studio 2019\Empresa-TI107\TJ-Sushi\obj\Debug\TJ_Sushi.frmComponentes.resources
